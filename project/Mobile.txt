@@ -1,0 +1,2 @@
+1	Samsung J3	20000	20
+7	Samsung j5	30000	30
